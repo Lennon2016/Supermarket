@@ -3,7 +3,7 @@
 用户主界面：
 ![屏幕截图 2025-02-15 110812](https://github.com/user-attachments/assets/c84a85bd-61ed-41d8-9fa4-52b5895a76dc)
 
-用户登录和:
+用户登录:
 ![屏幕截图 2025-02-15 133734](https://github.com/user-attachments/assets/c5bc4e59-803f-4a8f-ba61-794a64c287d3)
 
 注册界面
